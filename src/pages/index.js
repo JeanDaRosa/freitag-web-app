@@ -53,6 +53,11 @@ const POSTS_QUERY = graphql`
         }
       }
     }
+    banner: contentfulBannerPrincipal {
+      bannerImage {
+        gatsbyImageData
+      }
+    }
   }
 `
 
@@ -74,7 +79,7 @@ const Index = () => {
             <div className='relative max-w-full mx-auto h-3/4'>
               <img
                 className='h-full w-full object-cover'
-                src={banner}
+                src={data.banner.bannerImage.gatsbyImageData.images.fallback.src}
                 alt='doctors'
               />
             </div>
@@ -190,12 +195,6 @@ const Index = () => {
             href='#slide-2'
           >
             INDAIAL
-          </a>
-          <a
-            className='mr-1 p-2 text-gray-100 rounded-2xl bg-blue-400 hover:bg-blue-500 flex justify-center items-center'
-            href='#slide-3'
-          >
-            BENEDITO NOVO
           </a>
           <a
             className='mr-1 p-2 text-gray-100 rounded-2xl bg-blue-400 hover:bg-blue-500 flex justify-center items-center'

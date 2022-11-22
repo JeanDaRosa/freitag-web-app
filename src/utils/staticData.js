@@ -24,7 +24,6 @@ import oftalmologica from '../assets/OFTALMOLOGICA-min.jpeg'
 import pterigio from '../assets/PTERIGIO-min.jpeg'
 import refrativa from '../assets/REFRATIVA-min.jpeg'
 import unidadeApiuna from '../assets/unidade_apiuna.png'
-import unidadeBeneditonovo from '../assets/unidade_beneditonovo.png'
 import unidadeIndaial from '../assets/unidade_indaial.png'
 import unidadeTimbo from '../assets/unidade_timbo.jpeg'
 import yag from '../assets/YAG-min.jpeg'
@@ -152,19 +151,6 @@ O implante está indicado para doenças da córnea em que ocorre alteração de 
       urlmap:
         'https://www.google.com/maps/place/Rua+Marechal+Deodoro+da+Fonseca,+1025+-+Tapaj%C3%B3s,+Indaial+-+SC,+89130-000/@-26.9008823,-49.2433544,17z/data=!3m1!4b1!4m5!3m4!1s0x94df028a331fab73:0xc94877b2eea8b0c1!8m2!3d-26.9008823!4d-49.2411657',
       src: unidadeIndaial,
-    },
-    {
-      id: 'slide-3',
-      title: 'Hospital de Olhos Freitag - Benedito Novo',
-      description:
-        'Endereço: Rua Quirino Longo, 300 - Centro, Benedito Novo - SC',
-      description2: 'Ref: Anexo ao Hospital São Benedito',
-      contact: 'Telefone: (47) 3382-0266',
-      contact2: 'Whatsapp: (47) 99262-6100',
-      contactUrl: 'https://wa.me/5547992626100',
-      urlmap:
-        'https://www.google.com/maps/place/R.+Quirino+Longo,+300+-+Centro,+Benedito+Novo+-+SC,+89124-000/@-26.7820527,-49.3648838,17z/data=!4m5!3m4!1s0x94def80889b565a3:0x1df98072b912c294!8m2!3d-26.7820527!4d-49.3626951',
-      src: unidadeBeneditonovo,
     },
     {
       id: 'slide-4',

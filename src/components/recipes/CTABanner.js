@@ -22,7 +22,7 @@ const CTABanner = () => (
           target='_blank'
         >
           <span className='underline text-blue-400 hover:text-blue-500 block mb-2'>
-            Timbó / Benedito Novo - (47) 99262-6100
+            Timbó - (47) 99262-6100
           </span>
         </a>
         <a

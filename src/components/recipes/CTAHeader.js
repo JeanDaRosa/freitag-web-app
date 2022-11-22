@@ -22,7 +22,7 @@ const CTAHeader = () => (
         rel='noreferrer'
         className='flex flex-end items-center justify-center font-regular text-lg text-white hover:text-gray-300 mr-8'
       >
-        <span className='ml-3'>Timbó/Benedito Novo - (47) 99262-6100</span>
+        <span className='ml-3'>Timbó - (47) 99262-6100</span>
       </a>
       <a
         href={getWhatsUrl(
