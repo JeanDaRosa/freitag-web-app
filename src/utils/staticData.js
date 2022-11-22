@@ -24,7 +24,7 @@ import oftalmologica from '../assets/OFTALMOLOGICA-min.jpeg'
 import pterigio from '../assets/PTERIGIO-min.jpeg'
 import refrativa from '../assets/REFRATIVA-min.jpeg'
 import unidadeApiuna from '../assets/unidade_apiuna.png'
-import unidadeIndaial from '../assets/unidade_indaial.png'
+import unidadeIndaial from '../assets/unidade_indaial2.jpeg'
 import unidadeTimbo from '../assets/unidade_timbo.jpeg'
 import yag from '../assets/YAG-min.jpeg'
 
