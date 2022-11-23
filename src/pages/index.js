@@ -196,12 +196,6 @@ const Index = () => {
           >
             INDAIAL
           </a>
-          <a
-            className='mr-1 p-2 text-gray-100 rounded-2xl bg-blue-400 hover:bg-blue-500 flex justify-center items-center'
-            href='#slide-4'
-          >
-            APIÚNA
-          </a>
         </div>
       </div>
       <BlogColunCards title='Postagens mais recentes' href='\blog'>

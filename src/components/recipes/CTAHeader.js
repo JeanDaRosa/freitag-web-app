@@ -35,17 +35,6 @@ const CTAHeader = () => (
       >
         <span className='ml-3'>Indaial - (47) 99168-9605</span>
       </a>
-      <a
-        href={getWhatsUrl(
-          CTA_WA_MESSAGES.ctaBanner3,
-          'https://wa.me/5547991752857'
-        )}
-        target='_blank'
-        rel='noreferrer'
-        className='flex flex-end items-center justify-center font-regular text-lg text-white hover:text-gray-300 mr-8'
-      >
-        <span className='ml-3'>Apiúna - (47) 99175-2857</span>
-      </a>
     </div>
   </nav>
 )

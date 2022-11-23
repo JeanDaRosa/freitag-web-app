@@ -12,7 +12,5 @@ export const CTA_WA_MESSAGES = {
     'Olá unidade HOF de Timbó! Estava no site e gostaria de falar com vocês!',
   ctaBanner2:
     'Olá unidade HOF de Indaial! Estava no site e gostaria de falar com vocês!',
-  ctaBanner3:
-    'Olá unidade HOF de Apiúna! Estava no site e gostaria de falar com vocês!',
   pageNotFound: 'Página não encotrada!',
 }
